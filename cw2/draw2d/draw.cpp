@@ -267,5 +267,3 @@ void draw_rectangle_outline( Surface& aSurface, Vec2f aMinCorner, Vec2f aMaxCorn
 	// TODO: (Exercise G.1) your implementation goes here. Can ignore for CW2.
 }
 
-
-
